@@ -88,7 +88,7 @@ python app.py
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/banking-customer-analytics.git
+git clone https://github.com/ChiragPatankar/Bank-customer-segmentation-recommendation.git
 cd banking-customer-analytics
 ```
 
