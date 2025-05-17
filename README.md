@@ -89,7 +89,7 @@ python app.py
 
 ```bash
 git clone https://github.com/ChiragPatankar/Bank-customer-segmentation-recommendation.git
-cd banking-customer-analytics
+cd Bank-customer-segmentation-recommendation
 ```
 
 2. **Install dependencies**
